@@ -21,7 +21,7 @@ Step 1: Install Dependencies
 
 Open a terminal in VS Code (Terminal → New Terminal) and run:
 
-npm install
+"npm install"
 
 
 This installs React, Vite, and all dependencies listed in package.json.
@@ -30,7 +30,7 @@ Step 2: Start the Development Server
 
 Run:
 
-npm run dev
+"npm run dev"
 
 
 Vite will start a local development server.
@@ -42,7 +42,7 @@ In the terminal, you’ll see something like:
   ➜  Local:   http://localhost:5173/
   ➜  Network: use --host to expose
 
-Step 4: Open in Browser
+Step 3: Open in Browser
 
 Open your browser.
 
